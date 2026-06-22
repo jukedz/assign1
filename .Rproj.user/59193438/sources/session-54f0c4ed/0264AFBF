@@ -1,14 +1,14 @@
 {
-    "id": "8E1A4232",
+    "id": "0264AFBF",
     "path": "~/IBM 6520 - Market Forecasting/IBM 6300 - Retailing in Digital Economy/Homework/assign1/Jung, Jae-ITP-Assign1.qmd",
     "project_path": "Jung, Jae-ITP-Assign1.qmd",
     "type": "quarto_markdown",
-    "hash": "2529609480",
+    "hash": "422191399",
     "contents": "",
     "dirty": false,
-    "created": 1782094399868.0,
+    "created": 1782097464338.0,
     "source_on_save": true,
-    "relative_order": 2,
+    "relative_order": 4,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -18,14 +18,15 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "111:0"
+        "rmdVisualModeLocation": "2:645.7142944335938",
+        "docOutlineSize": "110"
     },
     "folds": "",
-    "lastKnownWriteTime": 1782094624,
+    "lastKnownWriteTime": 1782097481,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1782094624358,
+    "last_content_update": 1782097481182,
     "read_only": false,
     "read_only_alternatives": []
 }
