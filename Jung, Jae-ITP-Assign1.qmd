@@ -1,0 +1,100 @@
+---
+title: "ITP-Shopify Store - Assignment 1 - Shopify Orientation and Admin Exploration"
+author: "Julie Diaz"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: flatly
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Evidence of Shopify Learning Completion
+
+I completed three Shopify Academy courses as required for this assignment. The screenshots below provide evidence of 100% completion for each module.
+
+::: panel-tabset
+## Introduction to Shopify
+
+This 20-minute course covered the fundamentals of the Shopify platform, including what Shopify is, how the platform works, its architecture, and available plans.
+
+![Introduction to Shopify — 5 of 5 lessons completed (100%)](Intro_to_Shopify_Screenshot.png){fig-alt="Screenshot showing Introduction to Shopify course on Shopify Academy with 5 of 5 lessons completed at 100%"}
+
+## Navigating the Shopify Admin
+
+This 20-minute course walked through the Shopify admin interface, including adding products, setting up role-based access controls, configuring sales channels for social media, and creating metaobjects and metafields.
+
+![Navigating the Shopify Admin — 8 of 8 lessons completed](Navigating_Shopify_Admin_Screenshot.png){fig-alt="Screenshot showing Navigating the Shopify Admin course on Shopify Academy with 8 of 8 lessons completed"}
+
+## Developing on Shopify
+
+This 60-minute course covered development concepts on the Shopify platform, including a hands-on lab to build a development store with product data and simulate a transaction.
+
+![Developing on Shopify — 2 of 2 lessons completed (100%)](Developing_on_Shopify_Screenshot.png){fig-alt="Screenshot showing Developing on Shopify course on Shopify Academy with 2 of 2 lessons completed at 100%"}
+:::
+
+------------------------------------------------------------------------
+
+# Shopify Admin Exploration
+
+> After completing the Shopify Academy courses, I accessed a Shopify practice store and explored the admin dashboard. The screenshot above from the *Navigating the Shopify Admin* course also reflects hands-on navigation of the admin area, including product management, access controls, and channel setup.
+
+The Shopify Admin is the central hub from which store owners manage every aspect of their business — from products and orders to analytics and marketing.
+
+------------------------------------------------------------------------
+
+# Feature Reflection
+
+The following five Shopify features stand out as especially important for online retailing:
+
+| Feature | Description |
+|------------------------------------|------------------------------------|
+| **Products & Collections** | Allows merchants to add, organize, and display products with images, variants (size, color), pricing, and inventory tracking. Collections group products by category for easier customer browsing. |
+| **Orders & Fulfillment** | Centralizes order management — merchants can view, process, fulfill, and refund orders. Integration with shipping carriers allows automatic label generation and tracking. |
+| **Themes & Online Store** | The theme editor allows merchants to customize their storefront appearance without coding. Themes control layout, typography, colors, and navigation, directly shaping the customer experience. |
+| **Analytics & Reports** | Shopify's built-in analytics track sales, traffic sources, customer behavior, and conversion rates. This data is essential for making informed business decisions and identifying growth opportunities. |
+| **Discounts & Marketing** | Merchants can create discount codes, automatic discounts, and gift cards. Marketing tools support email campaigns and integration with social channels, helping drive traffic and repeat purchases. |
+
+: Five Key Shopify Features for Online Retailing {#tbl-features}
+
+See @tbl-features for a summary of these five features and their relevance to e-commerce operations.
+
+::: callout-note
+## Additional Notable Features
+
+Other important Shopify features include the **App Store** (thousands of third-party integrations), **Checkout customization**, **Customer profiles**, **Shipping settings**, and **Store policies** (returns, privacy, terms of service). Together, these form a comprehensive retail toolkit.
+:::
+
+------------------------------------------------------------------------
+
+# CPP Farm Store Application Reflection
+
+Shopify could be a strong fit for CPP Farm Store or a similar local agricultural retail business. A farm store typically sells a variety of physical goods — such as produce, plants, seeds, and packaged goods — all of which can be organized using Shopify's product and collections system. Online ordering with local pickup or delivery could be configured through Shopify's shipping and fulfillment settings, reducing the need for in-person-only sales. The built-in analytics would help the store understand which products sell best and when, supporting seasonal inventory planning. Marketing tools, including discount codes and email campaigns, could help retain loyal local customers and attract new ones through social media channels. Finally, Shopify's low barrier to entry and scalable pricing plans make it accessible for a small operation like a campus farm store, allowing it to grow its digital presence without requiring significant technical expertise.
+
+------------------------------------------------------------------------
+
+# Appendix
+
+This document was prepared as part of the ITP course Shopify Orientation and Admin Exploration assignment.
+
+**Submission Links:**
+
+-   **GitHub Pages (Published Report):** [Add your GitHub Pages URL here](#)[^1]
+-   **GitHub Repository:** [Add your GitHub Repo URL here](#)[^2]
+
+[^1]: Replace this placeholder with your actual published URL after deploying to GitHub Pages.
+
+[^2]: Replace this placeholder with your actual GitHub repository URL.
+
+------------------------------------------------------------------------
+
+*Prepared for ITP — Assignment 1 \| Shopify Orientation and Admin Exploration*
